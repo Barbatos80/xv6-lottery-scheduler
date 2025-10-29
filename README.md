@@ -1,1 +1,0 @@
-# xv6-lottery-scheduler
